@@ -1,0 +1,1 @@
+These are practice questions solved using python, C and Java
